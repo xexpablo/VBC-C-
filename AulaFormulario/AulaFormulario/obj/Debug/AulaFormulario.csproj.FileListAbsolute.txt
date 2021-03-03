@@ -1,0 +1,10 @@
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\bin\Debug\AulaFormulario.exe.config
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\bin\Debug\AulaFormulario.exe
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\bin\Debug\AulaFormulario.pdb
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\obj\Debug\AulaFormulario.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\obj\Debug\AulaFormulario.Properties.Resources.resources
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\obj\Debug\AulaFormulario.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\obj\Debug\AulaFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\obj\Debug\AulaFormulario.exe
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\obj\Debug\AulaFormulario.pdb
+C:\Users\Pablo\Desktop\Nova pasta\VBC C#\AulaFormulario\AulaFormulario\obj\Debug\AulaFormulario.frmPrincipal.resources
