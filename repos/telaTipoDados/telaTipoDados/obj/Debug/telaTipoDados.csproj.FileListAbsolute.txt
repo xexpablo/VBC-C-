@@ -18,3 +18,13 @@ C:\Users\Pablo\Desktop\Nova pasta\VBC C#\repos\telaTipoDados\telaTipoDados\obj\D
 C:\Users\Pablo\Desktop\Nova pasta\VBC C#\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.csproj.CoreCompileInputs.cache
 C:\Users\Pablo\Desktop\Nova pasta\VBC C#\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.exe
 C:\Users\Pablo\Desktop\Nova pasta\VBC C#\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.pdb
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\bin\Debug\telaTipoDados.exe.config
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\bin\Debug\telaTipoDados.exe
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\bin\Debug\telaTipoDados.pdb
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.csprojAssemblyReference.cache
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.frmSoma.resources
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.Properties.Resources.resources
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.csproj.GenerateResource.cache
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.exe
+C:\Users\Pablo\Desktop\Nova pasta\VBC-CSharp\repos\telaTipoDados\telaTipoDados\obj\Debug\telaTipoDados.pdb

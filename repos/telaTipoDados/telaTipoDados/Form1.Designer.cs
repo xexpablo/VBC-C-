@@ -36,6 +36,7 @@ namespace telaTipoDados
             this.btnInt = new System.Windows.Forms.Button();
             this.btnReal = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.txtResultado = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // txtA
@@ -93,17 +94,27 @@ namespace telaTipoDados
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(16, 91);
+            this.lblResultado.Location = new System.Drawing.Point(12, 91);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(268, 13);
+            this.lblResultado.Size = new System.Drawing.Size(55, 13);
             this.lblResultado.TabIndex = 7;
-            this.lblResultado.Text = "Insira o valor de A e B, e descubra qual o tipo numérico";
+            this.lblResultado.Text = "Resultado";
+            // 
+            // txtResultado
+            // 
+            this.txtResultado.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            this.txtResultado.Location = new System.Drawing.Point(73, 88);
+            this.txtResultado.Name = "txtResultado";
+            this.txtResultado.ReadOnly = true;
+            this.txtResultado.Size = new System.Drawing.Size(181, 20);
+            this.txtResultado.TabIndex = 8;
             // 
             // frmSoma
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(296, 139);
+            this.Controls.Add(this.txtResultado);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnReal);
             this.Controls.Add(this.btnInt);
@@ -127,6 +138,7 @@ namespace telaTipoDados
         private System.Windows.Forms.Button btnInt;
         private System.Windows.Forms.Button btnReal;
         private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.TextBox txtResultado;
     }
 }
 

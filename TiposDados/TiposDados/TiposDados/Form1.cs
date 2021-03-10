@@ -16,5 +16,15 @@ namespace TiposDados
         {
             InitializeComponent();
         }
+
+        private void btnSomar_Click(object sender, EventArgs e)
+        {
+            int v1 = Convert.ToInt32(txtValor1.Text);
+            int v2 = Convert.ToInt32(txtValor2.Text);
+            int resultado = v1 + v2;
+
+            txtResultado.Text = resultado.ToString();
+
+        }
     }
 }
