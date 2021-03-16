@@ -34,7 +34,7 @@ namespace IMC
             this.lblAltura = new System.Windows.Forms.Label();
             this.txtAltura = new System.Windows.Forms.TextBox();
             this.indice = new System.Windows.Forms.GroupBox();
-            this.lblPesoResult = new System.Windows.Forms.Label();
+            this.lblIMC = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.lblIdeal = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
@@ -81,7 +81,7 @@ namespace IMC
             // 
             // indice
             // 
-            this.indice.Controls.Add(this.lblPesoResult);
+            this.indice.Controls.Add(this.lblIMC);
             this.indice.Controls.Add(this.label2);
             this.indice.Controls.Add(this.lblIdeal);
             this.indice.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -92,15 +92,15 @@ namespace IMC
             this.indice.TabStop = false;
             this.indice.Text = "Índice de Massa Corporal";
             // 
-            // lblPesoResult
+            // lblIMC
             // 
-            this.lblPesoResult.AutoSize = true;
-            this.lblPesoResult.Font = new System.Drawing.Font("Calibri", 20F);
-            this.lblPesoResult.Location = new System.Drawing.Point(26, 37);
-            this.lblPesoResult.Name = "lblPesoResult";
-            this.lblPesoResult.Size = new System.Drawing.Size(64, 33);
-            this.lblPesoResult.TabIndex = 2;
-            this.lblPesoResult.Text = "0,00";
+            this.lblIMC.AutoSize = true;
+            this.lblIMC.Font = new System.Drawing.Font("Calibri", 20F);
+            this.lblIMC.Location = new System.Drawing.Point(26, 37);
+            this.lblIMC.Name = "lblIMC";
+            this.lblIMC.Size = new System.Drawing.Size(64, 33);
+            this.lblIMC.TabIndex = 2;
+            this.lblIMC.Text = "0,00";
             // 
             // label2
             // 
@@ -171,9 +171,9 @@ namespace IMC
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(196, 69);
+            this.button1.Location = new System.Drawing.Point(214, 60);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(75, 42);
             this.button1.TabIndex = 6;
             this.button1.Text = "Calcular";
             this.button1.UseVisualStyleBackColor = true;
@@ -210,7 +210,7 @@ namespace IMC
         private System.Windows.Forms.TextBox txtAltura;
         private System.Windows.Forms.GroupBox indice;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Label lblPesoResult;
+        private System.Windows.Forms.Label lblIMC;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label lblIdeal;
         private System.Windows.Forms.Label lblMax;

@@ -18,7 +18,9 @@ namespace IMC
             {
                 peso = Convert.ToDouble(txtPeso.Text);
                 altura = Convert.ToDouble(txtAltura.Text);
-                double imc = peso / (altura * altura);
+                double imc = 0;
+                imc = peso / (altura * altura);
+                imc = Convert.ToDouble(String.Format("{0:0.00}", imc));
                 if (imc < 17)
                 {
                     lblIdeal.Text = "Muito abaixo do Peso";
@@ -47,9 +49,9 @@ namespace IMC
                 {
                     lblIdeal.Text = "Obesidade III (Mórbida)";
                 }
-                lblPesoResult.Text = String.Format("{0:0.00}", imc);
+                lblIMC.Text = imc.ToString("F2");
                 lblMin.Text = (18.5 * (altura * altura)).ToString("F2") + " Kg";
-                lblMax.Text = (25 * (altura * altura)).ToString("F2") + " Kg";
+                lblMax.Text = (24.99 * (altura * altura)).ToString("F2") + " Kg";
             }
             catch (Exception)
             {
